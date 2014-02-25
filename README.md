@@ -1,3 +1,3 @@
 winphone-timereporter
 =====================
-This is a new project to produsce an app for Windows Phone.
+This is a new project to create an app for Windows Phone.
